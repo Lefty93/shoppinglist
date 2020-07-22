@@ -1,14 +1,10 @@
-html {
-    background: url(header.jpg) no-repeat center center fixed;
-    /* image provided by https://unsplash.com/@malgonia_bujalsky */
-}
-
 body {
     overflow: hidden;
     padding-top: 1em;
     display: flex;
     justify-content: center;
     margin: 0px 15em 0px 15em;
+    background: #111111;
 }
 
 button {
